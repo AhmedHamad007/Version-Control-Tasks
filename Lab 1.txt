@@ -1,0 +1,32 @@
+1-What Is Git?
+Git is a distributed version control system used to track changes in source code during software development. It allows multiple developers to work on a project at the same time
+2-Git is the same as GitHub? True or False ? False
+
+3-What is the command to get the installed version of Git? 
+git --version
+
+4-Global
+
+5-git config user.email
+
+6-git add –all 
+
+7-git status
+
+8-git init
+
+9-False
+
+10-git commit
+
+11-git commit -m "New email"
+
+12-git log
+
+13- A separate version of the main repository
+
+14-git branch new-email
+
+15-git checkout new-email
+
+16-git merge new-email
